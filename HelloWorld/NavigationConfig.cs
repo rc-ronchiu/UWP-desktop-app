@@ -13,7 +13,8 @@ namespace HelloWorld
             new Scenario() { Title="Page 1", ClassType=typeof(Page1)},
             new Scenario() { Title="Page 2", ClassType=typeof(Page2)},
             new Scenario() { Title="Page 3", ClassType=typeof(Page3)},
-            new Scenario() { Title="DentallHiS", ClassType=typeof(DentallHiS)}
+            new Scenario() { Title="DentallHiS", ClassType=typeof(DentallHiS)},
+            new Scenario() { Title="Booking System", ClassType=typeof(BookingSystem)}
         };
     }
 

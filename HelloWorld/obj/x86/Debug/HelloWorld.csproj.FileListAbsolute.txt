@@ -238,3 +238,8 @@ C:\Users\lilli\Documents\HelloWorld\HelloWorld\obj\x86\Debug\DentallHiS.g.cs
 C:\Users\lilli\Documents\HelloWorld\HelloWorld\obj\x86\Debug\DentallHiS.xaml
 C:\Users\lilli\Documents\HelloWorld\HelloWorld\obj\x86\Debug\DentallHiS.xbf
 C:\Users\lilli\Documents\HelloWorld\HelloWorld\bin\x86\Debug\DentallHiS.xbf
+C:\Users\lilli\Documents\HelloWorld\HelloWorld\bin\x86\Debug\BookingSystem.xbf
+C:\Users\lilli\Documents\HelloWorld\HelloWorld\obj\x86\Debug\BookingSystem.g.i.cs
+C:\Users\lilli\Documents\HelloWorld\HelloWorld\obj\x86\Debug\BookingSystem.g.cs
+C:\Users\lilli\Documents\HelloWorld\HelloWorld\obj\x86\Debug\BookingSystem.xaml
+C:\Users\lilli\Documents\HelloWorld\HelloWorld\obj\x86\Debug\BookingSystem.xbf

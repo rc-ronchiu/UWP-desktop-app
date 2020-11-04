@@ -412,6 +412,9 @@
     <AppxPackagedFile Include="C:\Users\lilli\Documents\HelloWorld\HelloWorld\bin\x86\Debug\App.xbf">
       <PackagePath>App.xbf</PackagePath>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\lilli\Documents\HelloWorld\HelloWorld\bin\x86\Debug\BookingSystem.xbf">
+      <PackagePath>BookingSystem.xbf</PackagePath>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\lilli\Documents\HelloWorld\HelloWorld\bin\x86\Debug\DentallHiS.xbf">
       <PackagePath>DentallHiS.xbf</PackagePath>
     </AppxPackagedFile>

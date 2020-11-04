@@ -119,6 +119,9 @@
     <Compile Include="App.xaml.cs">
       <DependentUpon>App.xaml</DependentUpon>
     </Compile>
+    <Compile Include="BookingSystem.xaml.cs">
+      <DependentUpon>BookingSystem.xaml</DependentUpon>
+    </Compile>
     <Compile Include="DentallHiS.xaml.cs">
       <DependentUpon>DentallHiS.xaml</DependentUpon>
     </Compile>
@@ -159,6 +162,10 @@
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
     </ApplicationDefinition>
+    <Page Include="BookingSystem.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
     <Page Include="DentallHiS.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
